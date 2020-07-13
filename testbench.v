@@ -1,5 +1,5 @@
 `timescale  1ns/1ns
-`include    "R11641312 (38).v"
+`include    "interface.v"
 
 module testbench;
 reg [1:0] SS_ADDR   = 0;
